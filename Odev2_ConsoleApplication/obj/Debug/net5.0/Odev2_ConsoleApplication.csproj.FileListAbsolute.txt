@@ -1,0 +1,16 @@
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\bin\Debug\net5.0\Odev2_ConsoleApplication.exe
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\bin\Debug\net5.0\Odev2_ConsoleApplication.deps.json
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\bin\Debug\net5.0\Odev2_ConsoleApplication.runtimeconfig.json
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\bin\Debug\net5.0\Odev2_ConsoleApplication.runtimeconfig.dev.json
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\bin\Debug\net5.0\Odev2_ConsoleApplication.dll
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\bin\Debug\net5.0\ref\Odev2_ConsoleApplication.dll
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\bin\Debug\net5.0\Odev2_ConsoleApplication.pdb
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\obj\Debug\net5.0\Odev2_ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\obj\Debug\net5.0\Odev2_ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\obj\Debug\net5.0\Odev2_ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\obj\Debug\net5.0\Odev2_ConsoleApplication.AssemblyInfo.cs
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\obj\Debug\net5.0\Odev2_ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\obj\Debug\net5.0\Odev2_ConsoleApplication.dll
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\obj\Debug\net5.0\ref\Odev2_ConsoleApplication.dll
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\obj\Debug\net5.0\Odev2_ConsoleApplication.pdb
+C:\Users\tibetkagan.ozgur\Desktop\Bootcamp\!Patika.dev eğitimleri\C# 101\Odev2_ConsoleApplication\obj\Debug\net5.0\Odev2_ConsoleApplication.genruntimeconfig.cache
